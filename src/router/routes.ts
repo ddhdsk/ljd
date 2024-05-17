@@ -5,7 +5,7 @@ import Search from "@/views/search.vue";
 import RankingList from "@/views/rankingList.vue";
 
 const routes: Array<RouteRecordRaw> = [
-  { path: "/", redirect: "/search" },
+  { path: "/", redirect: "/rankingList" },
   { path: "/a", component: A },
   { path: "/b", component: B },
   { path: "/search", component: Search },
