@@ -241,15 +241,9 @@
 <script setup lang="ts">
 import { useRouter } from "vue-router";
 import { useRequest } from "vue-request";
-import {
-  getToplist,
-  getToplistDetail,
-  getPlaylistTrackAll,
-  getSongListDetails,
-} from "@/service";
+import { getToplist, getToplistDetail } from "@/service";
 import pic from "@/components/pic.vue";
 const active = ref(0);
-const topMv = ref([]);
 const regions = ref(["官方", "精选", "曲风", "全球", "语种"]);
 
 // const params = {
