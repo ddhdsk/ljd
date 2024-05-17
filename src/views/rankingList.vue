@@ -125,7 +125,7 @@
               <img
                 :src="item.coverImgUrl"
                 alt=""
-                class="w-[28vw] h-[28vw] rounded-md mr-[2.5vw] mb-[2.5vw]"
+                class="w-[28vw] h-[28vw] rounded-md mr-[2vw] mb-[2vw]"
               />
               <Icon
                 icon="ph:play-fill"
@@ -150,7 +150,7 @@
               <img
                 :src="item.coverImgUrl"
                 alt=""
-                class="w-[28vw] h-[28vw] rounded-md mr-[2.5vw] mb-[2.5vw]"
+                class="w-[28vw] h-[28vw] rounded-md mr-[2vw] mb-[2vw]"
               />
               <Icon
                 icon="ph:play-fill"
@@ -175,7 +175,7 @@
               <img
                 :src="item.coverImgUrl"
                 alt=""
-                class="w-[28vw] h-[28vw] rounded-md mr-[2.5vw] mb-[2.5vw]"
+                class="w-[28vw] h-[28vw] rounded-md mr-[2vw] mb-[2vw]"
               />
               <Icon
                 icon="ph:play-fill"
@@ -200,7 +200,7 @@
               <img
                 :src="item.coverImgUrl"
                 alt=""
-                class="w-[28vw] h-[28vw] rounded-md mr-[2.5vw] mb-[2.5vw]"
+                class="w-[28vw] h-[28vw] rounded-md mr-[2vw] mb-[2vw]"
               />
               <Icon
                 icon="ph:play-fill"
@@ -225,7 +225,7 @@
               <img
                 :src="item.coverImgUrl"
                 alt=""
-                class="w-[28vw] h-[28vw] rounded-md mr-[2.5vw] mb-[2.5vw]"
+                class="w-[28vw] h-[28vw] rounded-md mr-[2vw] mb-[2vw]"
               />
               <Icon
                 icon="ph:play-fill"
