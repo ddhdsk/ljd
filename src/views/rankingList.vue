@@ -239,7 +239,6 @@
   </div>
 </template>
 <script setup lang="ts">
-import { useRouter } from "vue-router";
 import { useRequest } from "vue-request";
 import { getToplist, getToplistDetail } from "@/service";
 import pic from "@/components/pic.vue";
